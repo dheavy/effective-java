@@ -1,3 +1,3 @@
 # Effective Java
 
-Practicing on Effective Java book.
+Practicing on the _Effective Java_ book.
